@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "preserveConstEnums": true,
+        "removeComments": false,
+        "target": "ES6"
+    },
+    "filesGlob": [
+        "typings/index.d.ts",
+        "projects/**/*.ts"
+    ],
+    "compileOnSave": true,
+    "exclude": [
+        "node_modules"
+    ]
+}
