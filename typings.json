@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "onoff": "registry:dt/onoff#0.0.0+20160206144506"
+  }
+}
